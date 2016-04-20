@@ -2,7 +2,7 @@
   "name": "mongo-plug",
   "version": "1.0.0",
   "description": "A simple hapi.js plugin for MongoDB",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha --compilers js:babel-core/register"
   },
